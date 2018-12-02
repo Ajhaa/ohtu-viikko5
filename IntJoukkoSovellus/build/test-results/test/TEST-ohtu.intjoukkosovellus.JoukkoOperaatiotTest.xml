@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ohtu.intjoukkosovellus.JoukkoOperaatiotTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-12-02T19:48:57" hostname="Atte-fuxxi" time="0.006">
+  <properties/>
+  <testcase name="leikkausToimii" classname="ohtu.intjoukkosovellus.JoukkoOperaatiotTest" time="0.005"/>
+  <testcase name="testSomething" classname="ohtu.intjoukkosovellus.JoukkoOperaatiotTest" time="0.0"/>
+  <testcase name="erotusToimii" classname="ohtu.intjoukkosovellus.JoukkoOperaatiotTest" time="0.001"/>
+  <system-out><![CDATA[[3]
+[1, 4]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
